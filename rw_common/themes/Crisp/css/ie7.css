@@ -1,0 +1,120 @@
+#bannerContainer {
+	border: 1px solid #e9e9e9;
+}
+
+.otherPageType, .photo-navigation {
+	border: 1px solid #e9e9e9;
+}
+
+.blog-entry {
+	padding: 10px;
+	border: 1px solid #e9e9e9;
+}
+
+.blogEntryTopperImg {
+	display: block;
+	margin: -24px -24px 36px;
+	position: relative;
+	left: 13px;
+	top: 12px;
+}
+
+#banner {
+	margin-right: 18px;
+	margin-left: 18px;
+	padding-top: 18px;
+	padding-bottom: 11px;
+}
+
+nav ul ul {
+	border: 1px solid #e9e9e9;
+	border-top-style: none;
+	margin-left: -1px;
+}
+
+nav ul ul ul {
+	border: 1px solid #e9e9e9;
+}
+
+nav, nav ul {
+	line-height: 46px;
+	display: block;
+	position: relative;
+	zoom: 1;
+}
+
+
+nav ul ul a, nav ul ul li {
+	line-height: 24px;
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#extraContainer1, #myExtraContent1 {
+	margin: 0;
+	padding: 0;
+}
+
+/* @group ExtraContent Columns */
+
+/*
+CSS code for ExtraContent Columns Snippets*/
+
+.column { 
+	float: left;
+}
+
+.one { 
+	width: 99.5%; 
+}
+
+.two { 
+	width: 49.5%; 
+}
+
+.three { 
+	width: 32.5%; 
+}
+
+.four { 
+	width: 24.5%; 
+}
+
+.five { 
+	width: 19.5%; 
+}
+
+.two3rds { 
+	width: 65.5%; 
+}
+
+.three4ths { 
+	width: 74.5%; 
+}
+
+.four5ths { 
+	width: 79.5%; 
+}
+
+.column .content { 
+	width: 90% ! important; 
+	margin: 0 auto; 
+	padding: 0 ! important; 
+	float: none ! important;
+}
+
+/* @end */
+
+.envelopeForm {
+	border: 1px solid #e9e9e9;
+}
+
+#bannerImage {
+	margin-bottom: 20px;
+}
+
+h1.siteTitle {
+	line-height: 50px;
+}

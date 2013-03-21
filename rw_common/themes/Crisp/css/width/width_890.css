@@ -1,0 +1,19 @@
+header .innerWidth, #extraContent3 .innerWidth, #breadcrumb .innerWidth {
+	width: 890px;
+}
+
+#bannerContainer {
+	width: 890px;
+}
+
+#bannerImage {
+	width: 854px;
+}
+
+#container {
+	width: 890px;
+}
+
+#slideshow {
+	width: 854px !important;
+}

@@ -1,0 +1,1 @@
+var bannerPauseDuration = 9000;

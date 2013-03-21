@@ -1,0 +1,69 @@
+header {
+	background: url(../../images/hdr_bkg_dark_tile2.jpg) repeat-x center center;
+}
+h1.siteTitle {
+	text-shadow: #222224 0 1px 5px;
+}
+
+/* @group Badges */
+
+.twitterBadge {
+	background: url(../../images/socialbadges/twitter_dark.png) no-repeat;
+	opacity: 0.7;
+}
+
+.facebookBadge {
+	background: url(../../images/socialbadges/facebook_dark.png) no-repeat;
+	opacity: 0.7;
+}
+
+.appstoreBadge {
+	background: url(../../images/socialbadges/appstore_dark.png) no-repeat;
+	opacity: 0.7;
+}
+
+.dribbbleBadge {
+	background: url(../../images/socialbadges/dribbble_dark.png) no-repeat;
+	opacity: 0.7;
+}
+
+.flickrBadge {
+	background: url(../../images/socialbadges/flickr_dark.png) no-repeat;
+	opacity: 0.7;
+}
+
+.emberBadge {
+	background: url(../../images/socialbadges/ember_dark.png) no-repeat;
+	opacity: 0.7;
+}
+
+.mobilemeBadge {
+	background: url(../../images/socialbadges/mobileme_dark.png) no-repeat;
+	opacity: 0.7;
+}
+
+.rssBadge {
+	background: url(../../images/socialbadges/rss_dark.png) no-repeat;
+	opacity: 0.7;
+}
+
+.linkedinBadge {
+	background: url(../../images/socialbadges/linkedin_dark.png) no-repeat;
+	opacity: 0.7;
+}
+
+.paypalBadge {
+	background: url(../../images/socialbadges/paypal_dark.png) no-repeat;
+	opacity: 0.7;
+}
+
+.cartBadge {
+	background: url(../../images/socialbadges/cart_dark.png) no-repeat;
+	opacity: 0.7;
+}
+
+/* @end */
+
+.photo-background {
+	background: url(../../images/hdr_bkg_dark_tile2.jpg) repeat-x center top;
+}

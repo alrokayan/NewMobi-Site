@@ -1,0 +1,70 @@
+header {
+	background: url(../../images/hdr_bkg_wood3_tile.jpg) repeat-x center center;
+}
+
+h1.siteTitle {
+	text-shadow: #582e17 0 1px 5px;
+}
+
+/* @group Badges */
+
+.twitterBadge {
+	background: url(../../images/socialbadges/twitter_wood.png) no-repeat;
+	opacity: 1;
+}
+
+.facebookBadge {
+	background: url(../../images/socialbadges/facebook_wood.png) no-repeat;
+	opacity: 1;
+}
+
+.appstoreBadge {
+	background: url(../../images/socialbadges/appstore_wood.png) no-repeat;
+	opacity: 1;
+}
+
+.dribbbleBadge {
+	background: url(../../images/socialbadges/dribbble_wood.png) no-repeat;
+	opacity: 1;
+}
+
+.flickrBadge {
+	background: url(../../images/socialbadges/flickr_wood.png) no-repeat;
+	opacity: 1;
+}
+
+.emberBadge {
+	background: url(../../images/socialbadges/ember_wood.png) no-repeat;
+	opacity: 1;
+}
+
+.mobilemeBadge {
+	background: url(../../images/socialbadges/mobileme_wood.png) no-repeat;
+	opacity: 1;
+}
+
+.rssBadge {
+	background: url(../../images/socialbadges/rss_wood.png) no-repeat;
+	opacity: 1;
+}
+
+.linkedinBadge {
+	background: url(../../images/socialbadges/linkedin_wood.png) no-repeat;
+	opacity: 1;
+}
+
+.paypalBadge {
+	background: url(../../images/socialbadges/paypal_wood.png) no-repeat;
+	opacity: 1;
+}
+
+.cartBadge {
+	background: url(../../images/socialbadges/cart_wood.png) no-repeat;
+	opacity: 1;
+}
+
+/* @end */
+
+.photo-background {
+	background: url(../../images/hdr_bkg_wood3_tile.jpg) repeat-x center top;
+}
