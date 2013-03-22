@@ -1,16 +1,4 @@
 
-#stacks_in_179_page1 {
-	font-size: 132%;
-}
-
-#stacks_out_174_page1 {
-	width: 960px;
-}
-
-#stacks_in_174_page1 {
-	padding: 0px 10px 40px 10px;
-}
-
 #stacks_in_391_page1 .stacks_left {
 	float:left;
 	width:32%;
@@ -38,6 +26,18 @@
 	font-size: 130%;
 }
 
+.stacks_column_left {
+	float:left;
+}
+
+.stacks_column_right {
+	float:right;
+}
+
+.stacks_column_4 {
+	width:23%;
+	margin: 0 1%;
+}
 #stacks_in_202_page1 .stacks_left {
 	float:left;
 	width:32%;
